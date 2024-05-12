@@ -50,22 +50,22 @@
 const { smd, Config,smdBuffer,  prefix } = require('../lib')
 
 
-var surl = 'https://github.com/wasixd/WASI-MD' // Source URL
-const number = '923135673658'
-var name = ' 𝕎𝔸𝕊𝕀 𝕋𝔼ℂℍ'
+var surl = 'https://github.com/wasixd/ABRO' // Source URL
+const number = '2348100151048'
+var name = 'ABRO TECH'
 var body = '𝑇𝛩𝑈𝐶𝛨 𝛨𝛯𝑅𝛯'
-var image = 'https://telegra.ph/file/2c30fa9e6f61ef8ba03a2.jpg'
+var image = 'https://imgur.com/sm0w91L.jpeg'
 let text = `╭═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄
-│       「 𝐖𝐀𝐒𝐈 𝐓𝐄𝐂𝐇 𝐈𝐍𝐓𝐑𝐎  」
-│ Name      : 𝐖𝐀𝐒𝐈 
-│ Place       : 𝐈𝐒𝐋𝐀𝐌𝐀𝐁𝐀𝐃, 𝐏𝐀𝐊𝐈𝐒𝐓𝐀𝐍
+│       「 ABRO 𝐓𝐄𝐂𝐇 𝐈𝐍𝐓𝐑𝐎  」
+│ Name      : ABRO 
+│ Place       : LAGOS, NIGERIA
 │ Gender    :  𝐌𝐀𝐋𝐄
-│ Age          : 20
-│ education : 𝐁𝐒 𝐒𝐄 
+│ Age          : 19
+│ education : B.Tech MEE  >>>soon 
 │ good vibes : 𝐒𝐓𝐀𝐘 𝐂𝐋𝐀𝐌
-│ Phone     : wa.me/923135673658
-│ Youtube   : youtube.com/@wasitech1
-│ GitHub    : https://github.com/Itxxwasi 
+│ Phone     : wa.me/2348100151048
+│ Youtube   : 
+│ GitHub    : https://github.com/Temitopeareo 
 
 ╰═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄`
 
@@ -76,7 +76,7 @@ let text = `╭═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄
  //---------------------------------------------------------------------------
  smd({
              pattern: "intro",
-             alias: ["wasi","waso"],
+             alias: ["abro","abri"],
              desc: "Show intro of user",
              category: "fun",
              filename: __filename,
