@@ -1,75 +1,84 @@
-<p align="center">  
-  <a href="https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j">
-    <img alt="wasi" height="300" src="https://telegra.ph/file/9f5aac1b37d65de4c725c.jpg">
-    <h1 align="center">WASI MD V2</h1>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<h1 align="center"><b>ABRO DEV MD</b>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=Impact&size=30&center=true&vCenter=true&width=600&height=100&lines=I+AM+ABRO+DEV+MD+Created+By+ABRO&heart;++;Self-taught+Back-Created+By,;Abro+Temitope+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
+</p>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>                       
+  <a href="https://ibb.co/N6NMDtn"><img src="https://imgur.com/sm0w91L.jpeg" alt="01" border="0" /></a>     
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+ 
+![Aaaaand many more](res/readme/context.gif)
+
+ ## DM ME NOW ON WHATSAPP FOR FREE CC AND UPDATES
+
+
+<a href="https://wa.me/2348100151048?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Abro-Md+Repo" target="_blank">
+    <img alt="whatsapp Number" src="https://img.shields.io/badge/ My WhatsApp Number -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
-<p align="center">
-<a href="https://github.com/Itxxwasi"><img title="Author" src="https://img.shields.io/badge/Itxxwasi-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/923192173398"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
-<p/>
-<p align="center">
-<a href="https://github.com/Itxxwasi?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Itxxwasi?label=Followers&style=social"></a>
-<a href="https://github.com/Itxxwasi/WASI-MD-V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Itxxwasi/WASI-MD-V2?&style=social"></a>
-<a href="https://github.com/Itxxwasi/WASI-MD-V2/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Itxxwasi/WASI-MD-V2?style=social"></a>
-<a href="https://github.com/Itxxwasi/WASI-MD-V2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Itxxwasi/WASI-MD-V2?label=Watching&style=social"></a>
-</p>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-####  
-# My Awesome Project
+ **`DEPLOYMENT METHODS`**
+---
 
-Welcome to my awesome project! Here you'll find...
-## YouTube Channel
-
-Check out my YouTube channel for tutorials and more!
-
-[![YouTube Channel](https://img.shields.io/badge/Subscribe-My%20Channel-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@wasitech1)
-## WhatsApp Channel
-
-Join our WhatsApp channel for updates and discussions!
-
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j)
-## WhatsApp Support Group
-
-Join our WhatsApp support group for assistance and discussions!
-
-[![WhatsApp Support Group](https://img.shields.io/badge/Join-WhatsApp%20Support%20Group-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/Dd2RCJsumFWBfQ6290pDy8)
-
-#### SETUP
-
-1.𝔽𝕠𝕣𝕜 𝕥𝕙𝕖 𝕣𝕖𝕡𝕠
-    <br>
-<a href='https://github.com/Itxxwasi/WASI-MD-V2/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=green'/></a>
-
-
-
-2.𝔾𝕖𝕥 𝕊𝕖𝕤𝕤𝕚𝕠𝕟 𝕀𝔻 (ℙ𝔸𝕀ℝ𝕀ℕ𝔾)
-    <br>
 <a href='https://pair-qr-wasi-md.onrender.com/pair' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=green'/></a>
 
-
-3.𝔾𝕖𝕥 𝕊𝕖𝕤𝕤𝕚𝕠𝕟 𝕀𝔻 (𝕊ℂ𝔸ℕ ℚℝ)
-    <br>
 <a href='https://pair-qr-wasi-md.onrender.com' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=green'/></a>
+<br>
 
 
-#### 𝕕𝕖𝕡𝕝𝕠𝕪𝕞𝕖𝕟𝕥 𝕤𝕖𝕔𝕥𝕚𝕠𝕟
-# <a href="https://dashboard.heroku.com/new?template=https://github.com/Temitopeareo/ABRO-MD-V1"><img title="heroku" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=green&style=for-the-badge&logo=msi"></a>
-# <a href="https://railway.app/template/tM2McB?referralCode=v7Xehd"><img title="railway" src="https://img.shields.io/badge/DEPLOY ON RAILWAY-h?color=green&style=for-the-badge&logo=msi"></a>
-# <a href="(https://replit.com/github/Itxxwasi/WASI-MD-V2"><img title="raplir" src="https://img.shields.io/badge/RAPLIT-h?color=green&style=for-the-badge&logo=msi"></a>
-# <a href="https://wasimd-9dedcea2edba.herokuapp.com/"><img title="koyeb" src="https://img.shields.io/badge/DEPLOY ON KYOEB-h?color=green&style=for-the-badge&logo=msi"></a>
-### 𝕋ℍ𝔸ℕ𝕂𝕊 𝕋𝕆
- [`ASTROPED FOR PLUGINS `](https://github.com/astroped)
-  [`ibrahim-tech-for-help`](https://github.com/ibrahimaitech)
-  
+[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Temitopeareo/ABRO-MD-V1)[DEPLOY ABRO MD V1]
+
+
+<br>
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://github.com/Temitopeareo/ABRO-MD-V1)
+
+<br>
+
+<p align=""><a href="https://repl.it/github/ibrahimaitech/BLACK-PANTHER-MD"> <img src="https://img.shields.io/badge/replit%20Deploy-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a>
+
+<br>
+
+
+[![FORK ABRO MD](https://img.shields.io/badge/FORK%20-ABRO%20DEV%20MD-white)](https://github.com/Temitopeareo/ABRO-MD-V1/fork)
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 
-   
-## 𝕎𝔸ℝℕ𝕀ℕ𝔾
-- 𝘛𝘩𝘪𝘴 𝘣𝘰𝘵 𝘪𝘴 𝘯𝘰𝘵 𝘮𝘢𝘥𝘦 𝘣𝘺 `𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱 𝘐𝘯𝘤.` 𝘚𝘰 𝘮𝘪𝘴𝘶𝘴𝘪𝘯𝘨 𝘵𝘩𝘦 𝘣𝘰𝘵 𝘮𝘪𝘨𝘩𝘵 `𝘣𝘢𝘯` 𝘺𝘰𝘶𝘳 `𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱 𝘢𝘤𝘤𝘰𝘶𝘯𝘵!`(𝘛𝘩𝘰𝘶𝘨𝘩 𝘺𝘰𝘶𝘳 𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱 𝘢𝘤𝘤𝘰𝘶𝘯𝘵 𝘤𝘢𝘯 𝘣𝘦 𝘶𝘯𝘣𝘢𝘯𝘯𝘦𝘥 𝘰𝘯𝘭𝘺 𝘰𝘯𝘤𝘦.)
-- 𝘐 𝘢𝘮 𝘯𝘰𝘵 𝘳𝘦𝘴𝘱𝘰𝘯𝘴𝘪𝘣𝘭𝘦 𝘧𝘰𝘳 𝘣𝘢𝘯𝘯𝘪𝘯𝘨 𝘺𝘰𝘶𝘳 𝘢𝘤𝘤𝘰𝘶𝘯𝘵.
-- 𝘜𝘴𝘦 𝘢𝘵 𝘺𝘰𝘶𝘳 𝘰𝘸𝘯 𝘳𝘪𝘴𝘬 𝘣𝘺 𝘬𝘦𝘦𝘱𝘪𝘯𝘨 𝘵𝘩𝘪𝘴 𝘸𝘢𝘳𝘯𝘪𝘯𝘨 𝘪𝘯 𝘮𝘪𝘯𝘥.
 
-<h2 align="center">  NOTICE
-</h2>
-   
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+   ## 🚀 `Bot Features`
+| Feature                          | Description                                             | Available    | Version    |
+| ---------------------------------| ------------------------------------------------------- | ------------ | ---------- |
+| Multi-Device Support             | Operate the bot on multiple devices simultaneously     | ✅           | 2.0        |
+| AI Photo Enhancement             | Enhance photos using advanced AI algorithms            | ✅           | 2.0        |
+| Downloader Commands              | Download various types of content from the internet     | ✅           | 2.0        |
+| Hidden NSFW Commands             | Access a range of NSFW commands hidden in the bot       | ✅           | 2.0        |
+| Logo Commands                    | Generate logos using specialized commands               | ✅           | 2.0        |
+| Anime Commands                   | Explore anime-related commands and features              | ✅           | 2.0        |
+| Economy Menu                     | Engage in economic activities within the bot            | ✅           | 2.0        |
+| Various Games                    | Enjoy a variety of games within the bot                 | ✅           | 2.0        |
+| Audio/Video Editor Commands      | Edit audio and video files with bot commands            | ✅           | 2.0        |
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<br/> <div align="center">
+[![github](https://github.com/github.png?size=100)](https://github.com/Temitopeareo)[![Heroku](https://github.com/heroku.png?size=100)](#click-here-to-deploy)[![replit](https://github.com/replit.png?size=100)](https://github.com/Temitopeareo) [![whatsapp]<br/>
+</div>
+## 𝙏𝙝𝙖𝙣𝙠𝙨 𝙏𝙤 
+
+[`𝙎𝙐𝙃𝘼𝙄𝙇 𝙏𝙀𝘾𝙃`]
+
+[`𝙂𝙄𝙁𝙏𝙀𝘿 𝙏𝙀𝘾𝙃`]
+
+[`ASTA TECH`]
+
+[`𝘼𝙉𝘿 𝙏𝙃𝘼𝙉𝙆𝙎 𝙏𝙊 𝙈𝙀 𝙏𝙊𝙊😂`]
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
