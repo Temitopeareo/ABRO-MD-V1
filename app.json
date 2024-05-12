@@ -1,15 +1,15 @@
 {
-  "name": "wasi-md-v2",
+  "name": "ABRO-MD-V1",
   "description": "Simple WhatsApp Bot",
-  "logo": "https://github.com/Itxxwasi/WASI-MD-V2/blob/main/lib/assets/logo.png?raw=true",
-  "keywords": ["WASI-MD-V2", "WASIV2", "WASI MD","WASI MD","wasi","wasitech"],
+  "logo": "https://github.com/Temitopeareo/ABRO-MD-V1/blob/main/lib/assets/logo.png?raw=true",
+  "keywords": ["ABRO-MD-V1", "ABROV1", "ABRO MD","ABRO MD","abro","abrotech"],
   "success_url": "/",
   "stack": "container",
 
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",
-      "value": "𝐖𝐀𝐒𝐈-𝐓𝐄𝐂𝐇",
+      "value": "Abro Tech",
       "required": true
     },
 
@@ -27,12 +27,12 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required": false,
-      "value": "𝐖𝐀𝐒𝐈-𝐌𝐃-𝐕2"
+      "value": "ABRO-𝐌𝐃-V1"
     },
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
       "required": false,
-      "value": "Asia/Karachi"
+      "value": "Africa/Lagos"
     },
     "READ_COMMAND": {
       "description": " Read bot cmds",
@@ -102,12 +102,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "WASI",
+      "value": "ABRO",
       "required": false
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "",
+      "value": "🤖",
       "required": false
     }
   },
