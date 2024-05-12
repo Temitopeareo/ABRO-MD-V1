@@ -1,7 +1,7 @@
 {
   "name": "ABRO-MD-V1",
   "description": "Simple WhatsApp Bot",
-  "logo": "https://github.com/Temitopeareo/ABRO-MD-V1/blob/main/lib/assets/logo.png?raw=true",
+  "logo": "https://github.com/Temitopeareo/ABRO-MD-V1/blob/main/lib/assets/logo.jpg?raw=true",
   "keywords": ["ABRO-MD-V1", "ABROV1", "ABRO MD","ABRO MD","abro","abrotech"],
   "success_url": "/",
   "stack": "container",
