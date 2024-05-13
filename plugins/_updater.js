@@ -46,12 +46,12 @@ try {
         let commits = await DB.syncgit();
         if (commits.total === 0)
           return await citel.reply(
-            `*ASTA-MD MD IS RUNNING ON LATEST\nPATCHES\nFIXES\UPGRADES*`
+            `*ABRO MD IS RUNNING ON LATEST\nPATCHES\nFIXES\UPGRADES*`
           );
         let update = await DB.sync();
         await citel.bot.sendMessage(
           citel.chat,
-          { text: update.replace(/SuhailTechIMd/, "Astropeda") },
+          { text: update.replace(/SuhailTechIMd/, "AbroTECH") },
           { quoted: citel }
         );
         if (
