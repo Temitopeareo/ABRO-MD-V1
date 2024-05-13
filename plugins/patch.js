@@ -1,3 +1,4 @@
+
 const os = require("os");
 const fs = require("fs");
 const Config = require("../config");
@@ -188,7 +189,7 @@ smd(
           }
         }
 
-        return await message.send("`wasi-MD UPDATE WAS SUCCESSFULL ✅`");
+        return await message.send("`ABRO-MD UPDATE WAS SUCCESSFULL ✅`");
       } else {
         return await message.send(
           "*Auto Updated Failed, Unable to Download Update Please Manually Do It*"
@@ -376,7 +377,7 @@ smd(
         _0x22514a.date +
         "\n*➮ɴᴏᴡ ᴛɪᴍᴇ :* " +
         _0x22514a.time +
-        "\n\n➮Fᴏᴜɴᴅᴇʀ- Itxxwasi Team\n➮Oᴡɴᴇʀ - " +
+        "\n\n➮Fᴏᴜɴᴅᴇʀ- Temitope Team\n➮Oᴡɴᴇʀ - " +
         Config.ownername +
         "\n➮Nᴜᴍ - " +
         owner.split(",")[0] +
@@ -669,13 +670,13 @@ smd(
 
       const ramUsage = process.memoryUsage().heapTotal / 1024 / 1024;
 
-      const message = `*𝗪𝗔𝗦𝗜-𝗠𝗗-𝗩2-𝗜𝗡-𝗥𝗨𝗡𝗡𝗜𝗡𝗚-𝗙𝗥𝗢𝗠:* ${uptimeHours}h ${uptimeMinutes}ᴍ ${uptimeSeconds}s\n \t_ʜᴇʀᴇ's ᴍᴏʀᴇ ɪɴғᴏ_\n*ʀᴀᴍ ᴜsᴀɢᴇ:* ${ramUsage.toFixed(2)} MB\n*ᴄᴘᴜ ɴᴀᴍᴇ:* ${cpuModel}`;
+      const message = `*ABRO-MD-V1-𝗜𝗡-𝗥𝗨𝗡𝗡𝗜𝗡𝗚-𝗙𝗥𝗢𝗠:* ${uptimeHours}h ${uptimeMinutes}ᴍ ${uptimeSeconds}s\n \t_ʜᴇʀᴇ's ᴍᴏʀᴇ ɪɴғᴏ_\n*ʀᴀᴍ ᴜsᴀɢᴇ:* ${ramUsage.toFixed(2)} MB\n*ᴄᴘᴜ ɴᴀᴍᴇ:* ${cpuModel}`;
       const contextInfo = {
         isForwarded: true,
         forwardingScore: 999,
-        title: "wasi MD Running Since",
+        title: "ABRO MD Running Since",
         body: message,
-        footerText: "wasi MD 2024",
+        footerText: "ABRO MD 2024",
         isSendNotificationMsg: true,
         mentionedJid: [],
       };
@@ -1093,7 +1094,7 @@ smd(
       if (!isNaN(_0x56b5d3)) {
         if (
           _0x1eb88a[_0x210c92(367)] > 30 &&
-          _0x1eb88a[1][_0x210c92(362)]("WASI-MD_FANCY_TEXT")
+          _0x1eb88a[1][_0x210c92(362)]("ABRO-MD_FANCY_TEXT")
         ) {
           var _0x7b7a13 = _0x1eb88a[_0x210c92(379)]((_0x4377cc) =>
             _0x4377cc.startsWith(_0x56b5d3 + " ")
