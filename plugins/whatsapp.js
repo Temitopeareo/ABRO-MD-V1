@@ -611,3 +611,25 @@ cmd(
     }
   }
 );
+cmd(
+  {
+    pattern: "abro",
+    desc: "Project the developer's pic...ABRO MD",
+    category: "whatsapp",
+    filename: __filename,
+  },
+  async (_0x23a729, _0x5ad999, { cmdName: _0x2cb44f }) => {
+    try {
+      // Assuming you have a predefined image URL
+      const imageUrl = "https://imgur.com/7EcFWoP.jpeg";
+      
+      // Send the image to the user
+      await _0x23a729.sendImage({
+        url: imageUrl,
+        caption: "</abrocode> agba CODER!"
+      });
+    } catch (error) {
+      await _0x23a729.error(error + "\n\ncommand : project", error);
+    }
+  }
+);
