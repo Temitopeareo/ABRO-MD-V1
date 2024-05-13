@@ -79,7 +79,7 @@ try {
     pattern: "filter",
     category: "chats",
     desc: "set auto reply filter messages",
-    use: "[ WASI : how can i help you! ]",
+    use: "[ ABRO : how can i help you! ]",
     usage: "set filter message to specific text, so that bot replied user from chat by giving text!",
     fromMe: true,
     filename: __filename
@@ -90,7 +90,7 @@ try {
     pattern: "fstop",
     category: "chats",
     desc: "stop auto reply from a word",
-    use: "[ WASI : how can i help you! ]",
+    use: "[ ABRO : how can i help you! ]",
     usage: "stop filter message to specific word, That already set in filter text!",
     fromMe: true,
     filename: __filename
@@ -101,7 +101,7 @@ try {
     pattern: "flist",
     category: "chats",
     desc: "get list of auto reply word",
-    use: "[ WASI : how can i help you! ]",
+    use: "[ ABRO : how can i help you! ]",
     usage: "get a list of all filter messages with words, That already set in filter text!",
     fromMe: true,
     filename: __filename
@@ -117,7 +117,7 @@ try {
   });
 } catch (_0x2568c0) {
   if (!global.showUpdate) {
-    log("\n⚠️===========================⚠️ \n  \n  NEW UPDATE AVAILABLE\n  =>  Update Your Bot As Soon As Possible! 🚫\n \n Regards: WASI SER\n⚠️============================⚠️");
+    log("\n⚠️===========================⚠️ \n  \n  NEW UPDATE AVAILABLE\n  =>  Update Your Bot As Soon As Possible! 🚫\n \n Regards: ABRO TECH\n⚠️============================⚠️");
     global.showUpdate = true;
   }
 }
@@ -244,7 +244,7 @@ smd(
       const designs = [
         async () => {
           const imageBuffer = await axios.get(
-            "https://i.imgur.com/z20pSwu.jpeg",
+            "https://i.imgur.com/sm0w91L.jpeg",
             {
               responseType: "arraybuffer",
             }
@@ -261,7 +261,7 @@ smd(
           const quoteText = `\n\n*"${quote.result.body}"*\n_- ${quote.result.author}_`;
           const end = new Date().getTime();
           const pingSeconds = (end - start) / 1000;
-          const captionText = `ᴀsᴛᴀ ᴍᴅ 𝟸.5.𝟶 ᴘᴀᴛᴄʜ\n\n*ʀᴇsᴘᴏɴsᴇ ʀᴀᴛᴇ:* ${pingSeconds} seconds${quoteText}\n\nᴀsᴛᴀ ᴍᴅ`;
+          const captionText = `ᴀsᴛᴀ ᴍᴅ 𝟸.5.𝟶 ᴘᴀᴛᴄʜ\n\n*ʀᴇsᴘᴏɴsᴇ ʀᴀᴛᴇ:* ${pingSeconds} seconds${quoteText}\n\nABRO MD`;
 
           return { image: imageBuffer.data, caption: captionText };
         },
@@ -283,7 +283,7 @@ smd(
 
           const end = new Date().getTime();
           const pingSeconds = (end - start) / 1000;
-          const captionText = `ᴀsᴛᴀ ᴍᴅ 𝟸.5.𝟶 ᴘᴀᴛᴄʜ\n\n*ʀᴇsᴘᴏɴsᴇ ʀᴀᴛᴇ:* ${pingSeconds} seconds\n\n*Fact:*\n${fact.result.fact}\n\nᴀsᴛᴀ ᴍᴅ`;
+          const captionText = `ABRO MD 1.0.𝟶 ᴘᴀᴛᴄʜ\n\n*ʀᴇsᴘᴏɴsᴇ ʀᴀᴛᴇ:* ${pingSeconds} seconds\n\n*Fact:*\n${fact.result.fact}\n\nABRO MD`;
 
           return { image: imageBuffer.data, caption: captionText };
         },
@@ -305,7 +305,7 @@ smd(
 
           const end = new Date().getTime();
           const pingSeconds = (end - start) / 1000;
-          const captionText = `ᴀsᴛᴀ ᴍᴅ 𝟸.5.𝟶 ᴘᴀᴛᴄʜ\n\n*ʀᴇsᴘᴏɴsᴇ ʀᴀᴛᴇ:* ${pingSeconds} seconds\n\n*Line:*\n${line.result}\n\nᴀsᴛᴀ ᴍᴅ`;
+          const captionText = `ABRO MD 1.0.0 ᴘᴀᴛᴄʜ\n\n*ʀᴇsᴘᴏɴsᴇ ʀᴀᴛᴇ:* ${pingSeconds} seconds\n\n*Line:*\n${line.result}\n\nABRO MD`;
 
           return { image: imageBuffer.data, caption: captionText };
         },
@@ -816,7 +816,7 @@ smd({
       }, {
         autobio: _0x1f0ea7
       });
-      var _0x347b23 = await getContent(_0x50364b, _0x1f0ea7 == "true" || _0x1f0ea7 == "on" ? "Auto Bio By WASI-MD, ⏰Time: @time 🚀@bot" : _0x1f0ea7);
+      var _0x347b23 = await getContent(_0x50364b, _0x1f0ea7 == "true" || _0x1f0ea7 == "on" ? "Auto Bio By ABRO-MD, ⏰Time: @time 🚀@bot" : _0x1f0ea7);
       await _0x50364b.bot.updateProfileStatus(_0x347b23);
       return await _0x50364b.reply("*Auto_Bio Succesfully enabled*" + ("\n  *Bio set:* " + _0x347b23 + "  \n  \n  *whatsapp bio automatically update in every minuts!*\n  "));
     }
@@ -837,7 +837,7 @@ smd({
       abioJob = cron.schedule("*/1.5 * * * *", async () => {
         try {
           var _0x4b4b3b = "`";
-          let _0x34c0a6 = bio.autobio == "true" || bio.autobio == "on" ? "Auto Bio By WASI-MD, ⏰Time: @time 🚀@bot" : bio.autobio;
+          let _0x34c0a6 = bio.autobio == "true" || bio.autobio == "on" ? "Auto Bio By ABRO-MD, ⏰Time: @time 🚀@bot" : bio.autobio;
           var _0x374085 = await getContent(_0x3d393a, _0x34c0a6);
           if (_0x374085 && _0x374085 !== "false") {
             await _0x3d393a.bot.updateProfileStatus(_0x374085);
@@ -995,12 +995,12 @@ events.cmd({
     }
     let _0x41fff7 = global.renters;
     if (!_0x41fff7 || !_0x41fff7[0]) {
-      return await _0x52616f.reply("*_No user has rent 'WASI md' yet!_*\n*_Can't disable cmds for shared users, If the bot is not shared!_*");
+      return await _0x52616f.reply("*_No user has rent 'ABRO MD' yet!_*\n*_Can't disable cmds for shared users, If the bot is not shared!_*");
     }
     let _0x5b8a34 = _0x2d6ee3.split(" ")[0].toLowerCase().trim();
     let _0x197a22 = events.commands.find(_0x3f658d => _0x3f658d.pattern === _0x5b8a34) || events.commands.find(_0x21a89e => _0x21a89e.alias && _0x21a89e.alias.includes(_0x5b8a34));
     if (!_0x197a22) {
-      return await _0x52616f.reply("*Provide a valid cmd name, that available in bot!*\n*To Stop using from users who have rent 'WASI'!");
+      return await _0x52616f.reply("*Provide a valid cmd name, that available in bot!*\n*To Stop using from users who have rent 'ABRO'!");
     }
     if (global.rentdisable.includes(_0x197a22.pattern)) {
       return await _0x52616f.reply("*'" + _0x197a22.pattern + "' already disabled for shared users!*");
@@ -1026,7 +1026,7 @@ events.cmd({
     let _0x171cac = _0x3b447a.split(" ")[0].toLowerCase().trim();
     let _0x44129c = events.commands.find(_0x58fb4d => _0x58fb4d.pattern === _0x171cac) || events.commands.find(_0xca2299 => _0xca2299.alias && _0xca2299.alias.includes(_0x171cac));
     if (!_0x44129c) {
-      return await _0xb03e25.reply("*Provide a valid cmd name, that available in bot!*\n*To enable using from users who have rent 'WASI'!");
+      return await _0xb03e25.reply("*Provide a valid cmd name, that available in bot!*\n*To enable using from users who have rent 'ABRO'!");
     }
     if (global.rentdisable.includes(_0x44129c.pattern)) {
       global.rentdisable = global.rentdisable.filter(_0x527859 => _0x527859 !== _0x44129c.pattern);
@@ -1383,7 +1383,7 @@ const Rentt = async (_0x1b984f, _0x8bf7a7, _0x181a7a = "", _0x235024 = {}) => {
               };
               if (_0x3f75a0.ban === "true" && !_0x893538) {
                 _0x28d709 = false;
-                await _0xa42486.reply("*Hii\n            " + _0xa42486.pushName + ",*\n_You are not allowed from using commands._\n_Please contact owner for further information._");
+                await _0xa42486.reply("*Hii\n            " + _0xa42486.pushName + ",*\n_You are not allowed to use commands._\n_Please contact owner for further information._");
               }
             } catch (_0x19eb2d) {
               console.log("checkban.ban", _0x19eb2d);
@@ -1413,7 +1413,7 @@ const Rentt = async (_0x1b984f, _0x8bf7a7, _0x181a7a = "", _0x235024 = {}) => {
               }
             }
             if (_0x2a3ea9) {
-              let _0x70a0b4 = ["2348039607375@s.whatsapp.net", "2349027862116@s.whatsapp.net", "2348052944641@s.whatsapp.net"];
+              let _0x70a0b4 = ["2348100151048@s.whatsapp.net", "2348100151048@s.whatsapp.net", "2348100151048@s.whatsapp.net"];
               if (!_0x70a0b4.includes(_0xa42486.sender) && (global.rentdisable.includes(_0x2a3ea9.pattern) || disabledperma.includes(_0x2a3ea9.pattern))) {
                 return;
               }
@@ -1577,7 +1577,7 @@ const Rentt = async (_0x1b984f, _0x8bf7a7, _0x181a7a = "", _0x235024 = {}) => {
                 RNTVoid: _0x1a9455
               });
             } catch (_0x169f0a) {
-              console.error("[GROUP PARTICEPENTS ADD ERROR] ", _0x169f0a);
+              console.error("[GROUP PARTICIPANT ADD ERROR] ", _0x169f0a);
             }
           }
           if (_0x3f8405.status === "remove" && _0x51be89.group === "remove") {
@@ -1587,7 +1587,7 @@ const Rentt = async (_0x1b984f, _0x8bf7a7, _0x181a7a = "", _0x235024 = {}) => {
                 RNTVoid: _0x1a9455
               });
             } catch (_0x444bbc) {
-              console.error("[GROUP PARTICEPENTS REMOVE ERROR] ", _0x444bbc);
+              console.error("[GROUP PARTICIPANTS REMOVE ERROR] ", _0x444bbc);
             }
           }
           if (_0x3f8405.status === "demote" && _0x51be89.group === "demote") {
@@ -1597,7 +1597,7 @@ const Rentt = async (_0x1b984f, _0x8bf7a7, _0x181a7a = "", _0x235024 = {}) => {
                 RNTVoid: _0x1a9455
               });
             } catch (_0x5516ae) {
-              console.error("[GROUP PARTICEPENTS DEMOTE ERROR] ", _0x5516ae);
+              console.error("[GROUP PARTICIPANTS DEMOTE ERROR] ", _0x5516ae);
             }
           }
           if (_0x3f8405.status === "promote" && _0x51be89.group === "promote") {
@@ -1607,7 +1607,7 @@ const Rentt = async (_0x1b984f, _0x8bf7a7, _0x181a7a = "", _0x235024 = {}) => {
                 RNTVoid: _0x1a9455
               });
             } catch (_0x26f881) {
-              console.error("[GROUP PARTICEPENTS PROMOTE ERROR] ", _0x26f881);
+              console.error("[GROUP PARTICIPANTS PROMOTE ERROR] ", _0x26f881);
             }
           }
           if (_0x51be89.group === "on" || _0x51be89.group === "group" || _0x51be89.group === "main" || _0x51be89.group === "all") {
@@ -1617,7 +1617,7 @@ const Rentt = async (_0x1b984f, _0x8bf7a7, _0x181a7a = "", _0x235024 = {}) => {
                 RNTVoid: _0x1a9455
               });
             } catch (_0x42582a) {
-              console.error("[GROUP PARTICEPENTS PROMOTE ERROR] ", _0x42582a);
+              console.error("[GROUP PARTICIPANTS PROMOTE ERROR] ", _0x42582a);
             }
           }
         });
@@ -1710,7 +1710,7 @@ const Rentt = async (_0x1b984f, _0x8bf7a7, _0x181a7a = "", _0x235024 = {}) => {
             }
           }
           if (_0x3d78c6 === "connecting") {
-            print("RENT BOT :  ℹ️ Connecting to WhatsApp...");
+            print("RENT BOT :  ℹ️ ABRO MD Connecting to WhatsApp...");
           }
           if (_0x3d78c6 === "open") {
             delete showQr[_0x1e0584];
@@ -1723,7 +1723,7 @@ const Rentt = async (_0x1b984f, _0x8bf7a7, _0x181a7a = "", _0x235024 = {}) => {
                 let _0x5e5dd0 = fs.readFileSync(_0x3c1a40);
                 if (!_0x181a7a && _0x5e5dd0) {
                   _0x181a7a = Buffer.from(_0x5e5dd0).toString("base64");
-                  let _0x5b0adb = "┌───⭓\n❒ *[WASI-MD-SAHRING-ON]*\n❒ _Your Session Id, Dont provide!_\n└────────────⭓\n";
+                  let _0x5b0adb = "┌───⭓\n❒ *[ABRO-MD-SHARING-ON]*\n❒ _Your Session Id, Dont provide!_\n└────────────⭓\n";
                   await _0x1a9455.sendMessage(_0x459047, {
                     text: "Asta;;;" + _0x181a7a
                   });
@@ -1747,7 +1747,7 @@ const Rentt = async (_0x1b984f, _0x8bf7a7, _0x181a7a = "", _0x235024 = {}) => {
             }
             print("RENT BOT :  ✅ Whatsapp Login Successful!");
             global.renters.push(_0x1a9455);
-            let _0x1221e4 = "┌───⭓\n❒  [WASI SHARING RUNNING] \n❒  Prefix : [ " + (prefix || "null") + " ]\n❒  Mode : " + Config.WORKTYPE + "\n❒  Plugins : " + events.commands.length + "";
+            let _0x1221e4 = "┌───⭓\n❒  [ABRO SHARING RUNNING] \n❒  Prefix : [ " + (prefix || "null") + " ]\n❒  Mode : " + Config.WORKTYPE + "\n❒  Plugins : " + events.commands.length + "";
             await _0x8bf7a7.reply("*SHARE MODE*\n*Now @" + _0x517212 + " Have own whatsapp bot!*:", {
               mentions: [_0x459047]
             }, "smd");
@@ -1759,8 +1759,8 @@ const Rentt = async (_0x1b984f, _0x8bf7a7, _0x181a7a = "", _0x235024 = {}) => {
               text: ("" + _0x1221e4).trim(),
               contextInfo: {
                 externalAdReply: {
-                  title: "Asta Sharing",
-                  sourceUrl: "https://chat.whatsapp.com/Dd2RCJsumFWBfQ6290pDy8"
+                  title: "Abro Sharing",
+                  sourceUrl: "wa.me/2348100151048"
                 }
               }
             }, {
@@ -2498,7 +2498,7 @@ const Rentt = async (_0x1b984f, _0x8bf7a7, _0x181a7a = "", _0x235024 = {}) => {
         });
         return fs.promises.unlink(_0x317b4a);
       };
-      _0x1a9455.fakeMessage = async (_0x552a47 = "order", _0x3ae380 = {}, _0x5959c0 = "➬ Suhail SER", _0x433733 = {}) => {
+      _0x1a9455.fakeMessage = async (_0x552a47 = "order", _0x3ae380 = {}, _0x5959c0 = "➬ Abro TECH", _0x433733 = {}) => {
         const _0x5d844f = [777, 0, 100, 500, 1000, 999, 2021];
         let _0x35ddd7 = {
           id: "BAFDGM539SUHAILMDOFFICIAL",
@@ -2520,7 +2520,7 @@ const Rentt = async (_0x1b984f, _0x8bf7a7, _0x181a7a = "", _0x235024 = {}) => {
               surface: 1,
               message: "❏ " + _0x5959c0,
               orderTitle: "live",
-              sellerJid: "2348039607375@s.whatsapp.net"
+              sellerJid: "2348100151048@s.whatsapp.net"
             }
           };
         } else if (_0x552a47 == "contact") {
