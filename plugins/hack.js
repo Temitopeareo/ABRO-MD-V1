@@ -14,7 +14,7 @@ smd({ cmdname: "hack", type: "fun", info: "hacking prank", filename: __filename 
     " █ █ █ █ █ █ █ █ █ 90%",
     " █ █ █ █ █ █ █ █ █ █ 100%",
     "System hyjacking on process.. \\n Conecting to Server error to find 404 ",
-    "Device successfully connected... \\n Riciving data...",
+    "Device successfully connected... \\n Receiving data...",
     "Data hyjacked from divice 100% completed \\n killing all evidence killing all malwares...",
     " HACKING COMPLETED ",
     " SENDING LOG DOCUMENTS...",
